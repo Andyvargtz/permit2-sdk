@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/permit2-sdk",
-  "version": "1.2.2",
+  "name": "permit2-sdk",
+  "version": "1.2.3",
   "description": "An sdk for interacting with permit2.",
   "publishConfig": {
     "access": "public"
